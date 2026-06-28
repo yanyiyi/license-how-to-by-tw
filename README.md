@@ -24,8 +24,10 @@ skills/find-cc-license-and-attribution/
 
 ```text
 .
+├── CONTRIBUTING.md
 ├── README.md
 ├── LICENSE
+├── LICENSE-docs.md
 └── skills/
     └── find-cc-license-and-attribution/
         ├── SKILL.md
@@ -62,4 +64,9 @@ Use $find-cc-license-and-attribution 判讀這個網頁的創用 CC 授權並產
 
 ## 授權
 
-本專案的文字、skill 內容、patterns 與 templates 採用 `CC BY 4.0` 授權。若未來加入程式碼，可再另外加入程式碼授權檔。
+本專案採雙授權：
+
+- 程式碼、scripts、設定檔、範例程式：`MIT License`，見 `LICENSE`
+- 文件、案例整理、問答文字、教學說明、標示範例：`CC BY 4.0`，見 `LICENSE-docs.md`
+
+貢獻方式請見 `CONTRIBUTING.md`。
